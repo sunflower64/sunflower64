@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Personal [Astro](https://astro.build/) Templates.
 - 🌱 I’m currently learning Javascript
-- 🎶 I’m currently coding with [slowerpace 音楽 – Barbershop Simulator™](https://www.youtube.com/watch?v=Bu9Ia0n95rM)
-![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg) ![NeoVim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg) !(Python)[https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg]
+- 🎶 I’m currently coding with [slowerpace 音楽 – Barbershop Simulator™](https://www.youtube.com/watch?v=Bu9Ia0n95rM) <br>
+![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg) ![NeoVim](https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg) ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg)
 <!--
 **sunflower64/sunflower64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
